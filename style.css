@@ -1,0 +1,11 @@
+h1{
+    text-align: center;
+    width: auto;
+    margin: auto;
+    border-color: solid red;
+    border-width: 20px;
+}
+
+.Mainbutton{
+    background-color: aqua;
+}
